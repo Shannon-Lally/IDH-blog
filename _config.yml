@@ -13,4 +13,10 @@ author:
   url:               http://Shannon-Lally.github.io
   email:             lally.sh@northeastern.edu
 
+# Gems
+plugins:
+  - jekyll-paginate
 
+# Custom vars
+version:             1.1.0
+google_analytics_id: UA-146052-15
