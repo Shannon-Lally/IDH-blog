@@ -2,7 +2,7 @@
 title:               Shannon Lally Test Blog
 tagline:             ‘I have no clue what is going on’
 description:         'Why the website not have the right format :('
-url:                 http://Shannon-Lally.github.io/
+url:                 http://Shannon-Lally.github.io/IDH-blog/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
