@@ -1,7 +1,7 @@
 # Setup
 title:               Shannon Lally Test Blog
 tagline:             ‘I have no clue what is going on’
-description:         'Why doesn't the website have the right format :('
+description:         'Why the website not have the right format :('
 url:                 http://Shannon-Lally.github.io/
 baseurl:             ''
 paginate:            5
