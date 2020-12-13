@@ -3,7 +3,6 @@ layout: post
 title: True Crime: A Guilty Plea-sure
 ---
 
-
 ### Catching Some Killers to Catch Some Zzzs
 
 I have had insomnia since high school. The harder I try to sleep, the more sleep eludes me. In college, however, I found my miracle cure: documentaries. It could be about almost anything. I even bought wireless headphones and slept with my phone plugged in so that I could be continuously lulled into a deep, nearly comatose sleep. One night, I had been trying to fall asleep for almost six hours. I put on a docuseries episode about Billy Ray Cyrus's stay in a haunted hotel, and I was alseep in under five minutes. Did this disturb my undergraduate roommate? Yes, definitely, but Billy's voice soothed by achy breaky heart and my achy wakey brain. It turns out that there is such thing as too much of a good thing because my strange addiction bled over into my waking hours (*My Strange Addiction* is a great show to fall sleep to, by the way). Anything that wasn't a documentary simply didn't feel real enough. Does this mean that I also started enjoying mind-numbing reality TV like *Naked and Afraid*? Unfortunately, yes. One day, Netflix recommended the old *Forensic Files* to me, which is a classic and a cult favorite. My father introduced me to true crime as a young child (probably too young), but *Forensic Files* was popular well before my time. What did I discover? Crime solving used to be so primitive! It's almost difficult to watch!
